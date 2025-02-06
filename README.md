@@ -1,1 +1,1 @@
-![](pastaGif/Namassa.gif)
+![](pastaGif/Namassa2.gif)
