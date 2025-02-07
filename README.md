@@ -1,5 +1,5 @@
 #### _Read this in other languages_
-<kbd>[<img title="Português" alt="Português" src="IGNORE/images/brFlag" width="60">](Translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="IGNORE/images/brFlag.png" width="60">](Translations/README.pt_br.md)</kbd>
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](Translations/README.pt_br.md)</kbd>
 
 
