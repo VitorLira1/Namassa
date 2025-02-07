@@ -1,3 +1,8 @@
+#### _Read this in other languages_
+<kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Espanhol" alt="Spanish" src="https://www.countryflags.com/wp-content/uploads/spain-flag-png-large.png" width="60">](Translations/README.esp.md)</kbd>
+
+
 ![](pastaGif/Namassa3.gif)
 
 # Lorem ipsum dolor
