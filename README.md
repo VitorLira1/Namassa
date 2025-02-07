@@ -3,9 +3,7 @@
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](Translations/README.pt_br.md)</kbd>
 
 
-|  |
-|---|
-| ![](IGNORE/gifs/Namassa3.gif) |
+![](IGNORE/gifs/Namassa3.gif) 
 
 
 # Namassa App
