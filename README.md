@@ -7,16 +7,19 @@
 
 
 # Namassa App
+```bash
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
 O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
 # Funcionalidades
-
+```
 ## Tela de busca inteligente
+```bash
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-
+```
 ## Tela de favoritos
+```bash
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-
+```
 # Integrantes
 .
 .
