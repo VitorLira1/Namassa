@@ -3,7 +3,7 @@
 <kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
 
 
-![](IGNORE/pastaGif/Namassa3.gif)
+![](IGNORE/gifs/Namassa3.gif)
 
 # Namassa App
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Ciência, Tecnologia e Educação durante a turma Foundation do Apple Developer Academy.
