@@ -6,7 +6,8 @@
 ![](pastaGif/Namassa3.gif)
 
 # Namassa App
-Namassa é um protótipo de aplicativo desenvolvido por estudantes do Instituto Federal de Ciência, Tecnologia e Educação para o ambiente IOS durante o estudo dos fundamentos da linguagem Swift.
+Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Ciência, Tecnologia e Educação durante a turma Foundation do Apple Developer Academy.
+O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
 ## Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. ![adadad](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
