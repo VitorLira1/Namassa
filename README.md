@@ -21,3 +21,4 @@ logo do Namassa:
 ![](NamassaUtils/Logo-2.jpg)
 ### teste de badge
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-black)
+![Static Badge](https://img.shields.io/badge/lorem_ipsun-red)
