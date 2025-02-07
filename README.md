@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet
 ```bash
 logo do Namassa:
 ```
-![](NamassaUtils/Logo.jpg)
+![](NamassaUtils/Logo-2.jpg)
