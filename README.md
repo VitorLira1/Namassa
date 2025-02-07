@@ -1,6 +1,6 @@
 #### _Read this in other languages_
 <kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
-<kbd>[<img title="Português" alt="Português" src="https://www.countryflags.com/wp-content/uploads/brazil-flag-png-large.png" width="60">](Translations/README.pt_br.md)</kbd>
+<kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](Translations/README.pt_br.md)</kbd>
 
 
 ![](IGNORE/gifs/Namassa3.gif)
