@@ -5,8 +5,8 @@
 
 ![](pastaGif/Namassa3.gif)
 
-# Lorem ipsum dolor
-Nullam vitae risus et tellus euismod tempus. Praesent molestie purus sit amet laoreet mattis. Cras ornare, odio vel elementum varius, eros diam bibendum
+# Namassa App
+Namassa é um protótipo de aplicativo desenvolvido por estudantes do Instituto Federal de Ciência, Tecnologia e Educação para o ambiente IOS durante o estudo dos fundamentos da linguagem Swift.
 ## Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. ![adadad](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
