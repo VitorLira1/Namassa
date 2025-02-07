@@ -15,3 +15,7 @@ Lorem ipsum dolor sit amet
 - lorem 1
 - lorem 2
 - lorem 3
+```bash
+logo do Namassa:
+```
+![](NamassaUtils/Logo.jpg)
