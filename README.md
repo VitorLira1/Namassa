@@ -27,13 +27,16 @@ Vitor Adriano
 Levi Faleh
 Brenda Mônica
 ```
-Para ir para os modelos, clique [aqui](Namassa/Models)
+Para visualizar os modelos, clique [aqui](Namassa/Models)
+### ------------------------------------------------------
+Para visualizar os testes , clique [aqui](NamassaUITests)
+### ------------------------------------------------------
+Para visualizar os testes , clique [aqui](NamassaUITests)
+### ------------------------------------------------------
 
 
 
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. ![adadad](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. [adadad](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
 
 ```Swift
 print("sit amet, consectetur adipiscing elit.")
