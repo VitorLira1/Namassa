@@ -26,13 +26,13 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     <tr>
       <td align="center"><a href="https://github.com/brnwdag"><img src="" width="100px;" alt="Brenda Mônica"/><br /><sub><b>Brenda Mônica</b>
         </a>
-        <p><sub>Game Designer</sub></p></sub></td>
+        <p><sub>Designer</sub></p></sub></td>
       <td align="center"><a href="https://github.com/IsaacMaf"><img src="" width="100px;" alt="IsaacMaf"/><br /><sub><b>Isaac Ramos</b></a>
-        <p><sub>Game Artist</sub></p></sub></td>
+        <p><sub>Desginer</sub></p></sub></td>
       <td align="center"><a href="https://github.com/LeviFaleh"><img src="" width="100px;" alt="LeviFaleh"/><br /><sub><b>Levi Faleh</b></a>
-        <p><sub>Game Developer</sub></p></sub></td>
+        <p><sub>Developer</sub></p></sub></td>
       <td align="center"><a href="https://github.com/VorAd8"><img src="" width="100px;" alt="VorAd8"/><br /><sub><b>Vitor Adriano</b></sub></a>
-        <p><sub>Game Developer</sub></p></td>
+        <p><sub>Developer</sub></p></td>
     </tr>
   </tbody>
 </table>
