@@ -28,15 +28,15 @@ Brenda Mônica
 ## Atalhos para nosso Github
 teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
 
-Para visualizar os modelos, [clique aqui](Namassa/Models)
+Para visualizar os modelos, [clique aqui](../../Namassa/Models)
 
-Para visualizar os testes de swift, [clique aqui](NamassaTests)
+Para visualizar os testes de swift, [clique aqui](../../NamassaTests)
 
-Para visualizar os testes de interface, [clique aqui](NamassaUITests)
+Para visualizar os testes de interface, [clique aqui](../../NamassaUITests)
 
-Para visualizar as views, [clique aqui](Namassa/Views)
+Para visualizar as views, [clique aqui](../../Namassa/Views)
 
-Para visualizar as imagens utilizadas, [clique aqui](NamassaUtils)
+Para visualizar as imagens utilizadas, [clique aqui](../NamassaUtils)
 
 ```Swift
 print("sit amet, consectetur adipiscing elit.")
@@ -50,13 +50,13 @@ Lorem ipsum dolor sit amet
 ```bash
 logo do Namassa:
 ```
-![](NamassaUtils/Logo-2.jpg)
+![](../NamassaUtils/Logo-2.jpg)
 
 |    | Ferramentas Utilizadas: |    |
 |----|-------------------------|----|
-| ![](NamassaUtils/google1.png) Google         | ![](NamassaUtils/XcodePequeno.png) Xcode | ![](NamassaUtils/chatgpt.png) ChatGPT |
-| ![](NamassaUtils/social.png) Github           | ![](NamassaUtils/SketchBookPequeno.jpg) SkecthBook | ![](NamassaUtils/ProcreatePequeno.jpg) Procreate |
-| ![](NamassaUtils/figma.png) Figma            | ![](NamassaUtils/youtube.png) YouTube | ![](NamassaUtils/bate-papo.png) WhatsApp |
+| ![](../NamassaUtils/google1.png) Google         | ![](../NamassaUtils/XcodePequeno.png) Xcode | ![](../NamassaUtils/chatgpt.png) ChatGPT |
+| ![](../NamassaUtils/social.png) Github           | ![](../NamassaUtils/SketchBookPequeno.jpg) SkecthBook | ![](../NamassaUtils/ProcreatePequeno.jpg) Procreate |
+| ![](../NamassaUtils/figma.png) Figma            | ![](../NamassaUtils/youtube.png) YouTube | ![](../NamassaUtils/bate-papo.png) WhatsApp |
 
 ### teste de badge
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-black)
