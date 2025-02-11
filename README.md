@@ -49,9 +49,11 @@ logo do Namassa:
 ```
 ![](NamassaUtils/Logo-2.jpg)
 
-| Lorem | Ipsum |
-|-------|-------|
-| Teste | Testando |
+|    | Ferramentas Utilizadas: |    |
+|----|-------------------------|----|
+| Google           | Xcode | ChatGPT |
+| Github           | SkecthBook | Procreate |
+| Figma            | YouTube | WhatsApp |
 
 ### teste de badge
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-black)
