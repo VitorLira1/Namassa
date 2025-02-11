@@ -24,14 +24,14 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/brnwdag"><img src="" width="100px;" alt="Letícia Dutra"/><br /><sub><b>Leticia Dutra</b>
+      <td align="center"><a href="https://github.com/brnwdag"><img src="" width="100px;" alt="Brenda Mônica"/><br /><sub><b>Leticia Dutra</b>
         </a>
         <p><sub>Game Designer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/isaac"><img src="" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></a>
+      <td align="center"><a href="https://github.com/isaac"><img src="" width="100px;" alt="Isaac Ramos"/><br /><sub><b>Isadora Fontenele</b></a>
         <p><sub>Game Artist</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/levifaleh"><img src="" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></a>
+      <td align="center"><a href="https://github.com/levifaleh"><img src="" width="100px;" alt="Levi Faleh"/><br /><sub><b>Pedro Lucas</b></a>
         <p><sub>Game Developer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/VorAd8"><img src="" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a>
+      <td align="center"><a href="https://github.com/VorAd8"><img src="" width="100px;" alt="Vitor Adriano"/><br /><sub><b>Kaio Leandro</b></sub></a>
         <p><sub>Game Developer</sub></p></td>
     </tr>
   </tbody>
