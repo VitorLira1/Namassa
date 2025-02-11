@@ -57,9 +57,9 @@ logo do Namassa:
 
 |    | Ferramentas Utilizadas: |    |
 |----|-------------------------|----|
-| ![](NamassaUtils/google1.png) Google         | Xcode | ChatGPT |
-| Github           | SkecthBook | Procreate |
-| Figma            | YouTube | WhatsApp |
+| ![](NamassaUtils/google1.png) Google         | ![](NamassaUtils/XcodePequeno.png) Xcode | ![](NamassaUtils/chatgpt.png) ChatGPT |
+| ![](NamassaUtils/social.png) Github           | ![](NamassaUtils/lapis-de-cor.png) SkecthBook | ![](NamassaUtils/pena.png) Procreate |
+| ![](NamassaUtils/figma.png) Figma            | ![](NamassaUtils/youtube.png) YouTube | ![](NamassaUtils/bate-papo.png) WhatsApp |
 
 ### teste de badge
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-black)
