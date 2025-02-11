@@ -19,6 +19,11 @@ Nessa tela, o usuário informa os ingredientes que possui e, ao pressionar o bot
 
 Nessa tela, as receitas favoritadas pelo usuário são exibidas
 
+# Atalhos para nosso Github 🎯
+- [Models](Namassa/Models)  
+- [Views](Namassa/Views)  
+- [Images](NamassaUtils)
+
 # Integrantes 🌐
 <div align="center">
 <table>
@@ -38,10 +43,25 @@ Nessa tela, as receitas favoritadas pelo usuário são exibidas
 </table>
 </div>
 
-# Atalhos para nosso Github 🎯
-- [Models](Namassa/Models)  
-- [Views](Namassa/Views)  
-- [Images](NamassaUtils)
+## Ferramentas usadas
+|    |  |    |
+|----|-------------------------|----|
+| ![](NamassaUtils/google1.png) Google         | ![](NamassaUtils/XcodePequeno.png) Xcode | ![](NamassaUtils/chatgpt.png) ChatGPT |
+| ![](NamassaUtils/social.png) Github           | ![](NamassaUtils/SketchBookPequeno.jpg) SkecthBook | ![](NamassaUtils/ProcreatePequeno.jpg) Procreate |
+| ![](NamassaUtils/figma.png) Figma            | ![](NamassaUtils/youtube.png) YouTube | ![](NamassaUtils/bate-papo.png) WhatsApp |
+
+
+# Ferramentas usadas
+![Static Badge](https://img.shields.io/badge/Xcode-white?logo=xcode
+)  ![Static Badge](https://img.shields.io/badge/Youtube-white?logo=YouTube&logoColor=red
+)    ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma
+)  
+![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma
+)  ![Static Badge]()  ![Static Badge]()  
+![Static Badge]() ![Static Badge]() ![Static Badge]()
+
+
+
   
 ```Swift
 print("sit amet, consectetur adipiscing elit.")
