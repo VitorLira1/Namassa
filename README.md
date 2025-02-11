@@ -1,13 +1,10 @@
 #### _Leia isso em outras linguaguens_
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](NamassaUtils/Translations/READMEen.md)</kbd>
 
-![Static Badge](https://img.shields.io/badge/Swift-0.9.9.9-blue?logo=Swift&logoColor=%23F05138)
-
-
 
 ![](IGNORE/gifs/Namassa3.gif) 
 
-
+![Static Badge](https://img.shields.io/badge/Swift-0.9.9.9-blue?logo=Swift&logoColor=%23F05138)
 # Namassa App
 
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
@@ -41,15 +38,11 @@ Nessa tela, as receitas favoritadas pelo usuário são exibidas
 </table>
 </div>
 
-# Atalhos para nosso Github
-teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
-
-Para visualizar os modelos, [clique aqui](Namassa/Models)
-
-Para visualizar as views, [clique aqui](Namassa/Views)
-
-Para visualizar as imagens utilizadas, [clique aqui](NamassaUtils)
-
+# Atalhos para nosso Github 🎯
+- [Models](Namassa/Models)  
+- [Views](Namassa/Views)  
+- [Images](NamassaUtils)
+  
 ```Swift
 print("sit amet, consectetur adipiscing elit.")
 ```
