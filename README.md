@@ -27,7 +27,8 @@ Nessa tela, as receitas favoritadas pelo usuário são exibidas
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/brwndag"><img src="" width="100px;" alt="brwndag"/><br /><sub><b>Brenda Mônica</b>
+      <td align="center"><a href="https://github.com/brwndag"><img src="https://github.com/brwndag.png
+" width="100px;" alt="brwndag"/><br /><sub><b>Brenda Mônica</b>
         </a>
         <p><sub>Designer</sub></p></sub></td>
       <td align="center"><a href="https://github.com/IsaacMaf"><img src="" width="100px;" alt="IsaacMaf"/><br /><sub><b>Isaac Ramos</b></a>
