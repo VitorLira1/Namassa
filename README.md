@@ -27,7 +27,7 @@ Vitor Adriano
 Levi Faleh
 Brenda Mônica
 ```
-Para ir para os modelos, clique ![aqui](Namassa/Models)
+Para ir para os modelos, clique [aqui](Namassa/Models)
 
 
 
