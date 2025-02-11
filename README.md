@@ -88,3 +88,5 @@ logo do Namassa:
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-red)
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-green)
 ![Static Badge](https://img.shields.io/badge/lorem_ipsun-maroon)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma)
+
