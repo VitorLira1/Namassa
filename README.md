@@ -36,8 +36,6 @@ Para visualizar os testes de swift, [clique aqui](NamassaTests)
 
 Para visualizar os testes de interface, [clique aqui](NamassaUITests)
 
-Para visualizar os testes de interface, [clique aqui](NamassaUITests)
-
 Para visualizar as views, [clique aqui](Namassa/Views)
 
 Para visualizar as imagens utilizadas, [clique aqui](NamassaUtils)
