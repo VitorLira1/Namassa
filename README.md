@@ -22,7 +22,7 @@ Nessa tela, o usuário informa os ingredientes que possui e, ao pressionar o bot
 
 Nessa tela, as receitas favoritadas pelo usuário são exibidas
 
-# Integrantes
+# Integrantes 🌐
 <div align="center">
 <table>
   <tbody>
