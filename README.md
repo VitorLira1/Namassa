@@ -27,15 +27,14 @@ Nessa tela, as receitas favoritadas pelo usuário são exibidas
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/brwndag"><img src="https://github.com/brwndag.png
-" width="100px;" alt="brwndag"/><br /><sub><b>Brenda Mônica</b>
+      <td align="center"><a href="https://github.com/brwndag"><img src="https://avatars.githubusercontent.com/brwndag" width="100px;" alt="brwndag"/><br /><sub><b>Brenda Mônica</b>
         </a>
         <p><sub>Designer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/IsaacMaf"><img src="" width="100px;" alt="IsaacMaf"/><br /><sub><b>Isaac Ramos</b></a>
+      <td align="center"><a href="https://github.com/IsaacMaf"><img src="https://avatars.githubusercontent.com/IsaacMaf" width="100px;" alt="IsaacMaf"/><br /><sub><b>Isaac Ramos</b></a>
         <p><sub>Desginer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/LeviFaleh"><img src="" width="100px;" alt="LeviFaleh"/><br /><sub><b>Levi Faleh</b></a>
+      <td align="center"><a href="https://github.com/LeviFaleh"><img src="https://avatars.githubusercontent.com/LeviFaleh" width="100px;" alt="LeviFaleh"/><br /><sub><b>Levi Faleh</b></a>
         <p><sub>Developer</sub></p></sub></td>
-      <td align="center"><a href="https://github.com/VorAd2"><img src="" width="100px;" alt="VorAd2"/><br /><sub><b>Vitor Adriano</b></sub></a>
+      <td align="center"><a href="https://github.com/VorAd2"><img src="https://avatars.githubusercontent.com/VorAd2" width="100px;" alt="VorAd2"/><br /><sub><b>Vitor Adriano</b></sub></a>
         <p><sub>Developer</sub></p></td>
     </tr>
   </tbody>
