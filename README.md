@@ -1,7 +1,8 @@
 #### _Leia isso em outras linguaguens_
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](NamassaUtils/Translations/READMEen.md)</kbd>
 
-![NPM Version](https://img.shields.io/Swift/0.9.99)
+![Static Badge](https://img.shields.io/badge/Swift-0.9.9.9-blue?logo=Swift&logoColor=%23F05138)
+
 
 
 ![](IGNORE/gifs/Namassa3.gif) 
