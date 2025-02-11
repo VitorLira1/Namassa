@@ -57,8 +57,8 @@ logo do Namassa:
 
 |    | Ferramentas Utilizadas: |    |
 |----|-------------------------|----|
-| Google           | Xcode | ChatGPT |
-| Github           | ![](NamassaUtils/google1.png) SkecthBook | Procreate |
+| ![](NamassaUtils/google1.png) Google         | Xcode | ChatGPT |
+| Github           | SkecthBook | Procreate |
 | Figma            | YouTube | WhatsApp |
 
 ### teste de badge
