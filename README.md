@@ -38,7 +38,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 </table>
 </div>
 
-## Atalhos para nosso Github
+# Atalhos para nosso Github
 teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
 
 Para visualizar os modelos, [clique aqui](Namassa/Models)
