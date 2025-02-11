@@ -27,9 +27,10 @@ Vitor Adriano
 Levi Faleh
 Brenda Mônica
 ```
+## atalhos
 
 Para visualizar os modelos, clique [aqui](Namassa/Models)
-|------------------------------------------------------|
+### ------------------------------------------------------
 Para visualizar os testes , clique [aqui](NamassaUITests)
 ### ------------------------------------------------------
 Para visualizar os testes , clique [aqui](NamassaUITests)
