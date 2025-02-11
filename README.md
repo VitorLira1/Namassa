@@ -28,18 +28,19 @@ Levi Faleh
 Brenda Mônica
 ```
 ## Atalhos para nosso Github
+teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
 
-Para visualizar os modelos, clique [aqui](Namassa/Models)
-=========================================================
-Para visualizar os testes , clique [aqui](NamassaUITests)
-=========================================================
-Para visualizar os testes , clique [aqui](NamassaUITests)
-=========================================================
+Para visualizar os modelos, [clique aqui](Namassa/Models)
 
+Para visualizar os testes de swift, [clique aqui](NamassaTests)
 
+Para visualizar os testes de interface, [clique aqui](NamassaUITests)
 
+Para visualizar os testes de interface, [clique aqui](NamassaUITests)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. [adadad](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
+Para visualizar as views, [clique aqui](Namassa/Views)
+
+Para visualizar as imagens utilizadas, [clique aqui](NamassaUtils)
 
 ```Swift
 print("sit amet, consectetur adipiscing elit.")
