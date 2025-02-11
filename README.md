@@ -13,11 +13,11 @@ O app se baseia na premissa de oferecer uma maneira prática de encontrar receit
 
 ## Tela de busca inteligente
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+Nessa tela, o usuário informa os ingredientes que possui e, ao pressionar o botão de pesquisa, realiza a busca de receitas que contenham tais ingredientes 
 
 ## Tela de favoritos
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+Nessa tela, as receitas favoritadas pelo usuário são exibidas
 
 # Integrantes
 <div align="center">
