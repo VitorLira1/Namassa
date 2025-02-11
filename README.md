@@ -27,7 +27,7 @@ Vitor Adriano
 Levi Faleh
 Brenda Mônica
 ```
-## atalhos
+## Atalhos para nosso Github
 
 Para visualizar os modelos, clique [aqui](Namassa/Models)
 ### ------------------------------------------------------
