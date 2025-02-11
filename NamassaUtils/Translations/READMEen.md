@@ -54,7 +54,7 @@ logo do Namassa:
 
 |    | Ferramentas Utilizadas: |    |
 |----|-------------------------|----|
-| ![](../NamassaUtils/google1.png) Google         | ![](../NamassaUtils/XcodePequeno.png) Xcode | ![](../NamassaUtils/chatgpt.png) ChatGPT |
+| ![](../../NamassaUtils/google1.png) Google         | ![](../NamassaUtils/XcodePequeno.png) Xcode | ![](../NamassaUtils/chatgpt.png) ChatGPT |
 | ![](../NamassaUtils/social.png) Github           | ![](../NamassaUtils/SketchBookPequeno.jpg) SkecthBook | ![](../NamassaUtils/ProcreatePequeno.jpg) Procreate |
 | ![](../NamassaUtils/figma.png) Figma            | ![](../NamassaUtils/youtube.png) YouTube | ![](../NamassaUtils/bate-papo.png) WhatsApp |
 
