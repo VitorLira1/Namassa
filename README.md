@@ -4,7 +4,7 @@
 
 ![](IGNORE/gifs/Namassa3.gif) 
 
-![Static Badge](https://img.shields.io/badge/Swift-0.9.9.9-blue?logo=Swift&logoColor=%23F05138)
+![Static Badge](https://img.shields.io/badge/Swift-5-blue?logo=Swift&logoColor=%23F05138)
 # Namassa App
 
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
