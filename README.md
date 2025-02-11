@@ -20,12 +20,24 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
 
 # Integrantes
-```bash
-Isaac Ramos
-Vitor Adriano
-Levi Faleh
-Brenda Mônica
-```
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/brnwdag"><img src="" width="100px;" alt="Letícia Dutra"/><br /><sub><b>Leticia Dutra</b>
+        </a>
+        <p><sub>Game Designer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/isaac"><img src="" width="100px;" alt="Isadora Fontenele"/><br /><sub><b>Isadora Fontenele</b></a>
+        <p><sub>Game Artist</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/levifaleh"><img src="" width="100px;" alt="Pedro Lucas"/><br /><sub><b>Pedro Lucas</b></a>
+        <p><sub>Game Developer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/VorAd8"><img src="" width="100px;" alt="Kaio Leandro"/><br /><sub><b>Kaio Leandro</b></sub></a>
+        <p><sub>Game Developer</sub></p></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ## Atalhos para nosso Github
 teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
 
