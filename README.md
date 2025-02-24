@@ -51,6 +51,13 @@ Nessa tela, as receitas favoritadas pelo usuário são exibidas
 | ![](NamassaUtils/figma.png) Figma            | ![](NamassaUtils/youtube.png) YouTube | ![](NamassaUtils/bate-papo.png) WhatsApp |
 
 
+
+
+
+
+
+
+![](IGNORE/gifs/Namassa3.gif) 
 # Ferramentas usadas
 ![Static Badge](https://img.shields.io/badge/Xcode-white?logo=xcode
 )  ![Static Badge](https://img.shields.io/badge/Youtube-white?logo=YouTube&logoColor=red
