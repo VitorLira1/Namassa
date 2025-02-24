@@ -2,7 +2,7 @@
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](NamassaUtils/Translations/READMEen.md)</kbd>
 
 
-![](IGNORE/gifs/Namassa3.gif) 
+
 
 ![Static Badge](https://img.shields.io/badge/Swift-5-blue?logo=Swift&logoColor=%23F05138)
 # Namassa App
