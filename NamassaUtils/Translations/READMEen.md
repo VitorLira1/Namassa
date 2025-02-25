@@ -1,65 +1,77 @@
-#### _Leia isso em outras linguaguens_
+#### _Read this in other languages_
 <kbd>[<img title="Português" alt="Português" src="../../IGNORE/images/brFlag.png" width="60">](../../README.md)</kbd>
-
-![](IGNORE/gifs/Namassa3.gif) 
 
 
 # Namassa App
 
-Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
-O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
-# Funcionalidades
+Namassa is a prototype iOS application developed by students from the Federal Institute of Education, Science and Technology of Ceará during the Foundation class of the Apple Developer Academy. The app is based on the premise of offering a practical way of finding recipes based on the user's availability of ingredients. To this end, a filtering search engine is provided, allowing recipes to be found based on the user's choices.
 
-## Tela de busca inteligente
+<p align="center">
+  <img src="../Screens/Inicializar.png" alt="Entrada" width="300">
+  <img src="../Screens/Entrada.png" alt="Entrada" width="300">
+</p>
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+# Main features :joystick:
 
-## Tela de favoritos
+## Ingredient selection flow
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+With this feature, the user can define, by category, the ingredients that should make up the recipes they are searching for. In view of the main objective of the application, it is usual for the user to select ingredients that are in some way accessible in their preparation environment.
 
-# Integrantes
-```bash
-Isaac Ramos
-Vitor Adriano
-Levi Faleh
-Brenda Mônica
-```
-## Atalhos para nosso Github
-teste -> Lorem ipsum dolor sit amet, consectetur adipiscing elit. [teste](Namassa.xcodeproj/project.xcworkspace/contents.xcworkspacedata)
+<p align="center">
+  <img src="../Screens/Proteinas.png" alt="Proteínas" width="250" >
+  <img src="../Screens/Carboidratos.png" alt="Carboidratos" width="250">
+  <img src="../Screens/Leguminosas.png" alt="Leguminosas" width="250">
+</p>
 
-Para visualizar os modelos, [clique aqui](../../Namassa/Models)
+## Found recipes
 
-Para visualizar os testes de swift, [clique aqui](../../NamassaTests)
+This screen will display the recipes found, respecting the user's selection of ingredients.
 
-Para visualizar os testes de interface, [clique aqui](../../NamassaUITests)
+<p align="center">
+  <img src="../Screens/Encontradas.png" alt="Receitas encontradas" width="250" >
+</p>
 
-Para visualizar as views, [clique aqui](../../Namassa/Views)
+## Recipe view
 
-Para visualizar as imagens utilizadas, [clique aqui](../../NamassaUtils)
+On this screen, the user can obtain some information about a selected recipe.
 
-```Swift
-print("sit amet, consectetur adipiscing elit.")
-```
-```bash
-Lorem ipsum dolor sit amet
-```
-- lorem 1
-- lorem 2
-- lorem 3
-```bash
-logo do Namassa:
-```
-![](../../NamassaUtils/Logo-2.jpg)
+<p align="center">
+  <img src="../Screens/Receita.png" alt="Página da receita" width="250" >
+</p>
 
-|    | Ferramentas Utilizadas: |    |
+# Links to our GitHub 🎯
+
+- [Models](Namassa/Models)  
+- [Views](Namassa/Views)  
+- [Images](NamassaUtils)
+
+# Members 🌐
+
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/brwndag"><img src="https://avatars.githubusercontent.com/brwndag" width="100px;" alt="brwndag"/><br /><sub><b>Brenda Mônica</b>
+        </a>
+        <p><sub>Designer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/IsaacMaf"><img src="https://avatars.githubusercontent.com/IsaacMaf" width="100px;" alt="IsaacMaf"/><br /><sub><b>Isaac Ramos</b></a>
+        <p><sub>Desginer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/LeviFaleh"><img src="https://avatars.githubusercontent.com/LeviFaleh" width="100px;" alt="LeviFaleh"/><br /><sub><b>Levi Faleh</b></a>
+        <p><sub>Developer</sub></p></sub></td>
+      <td align="center"><a href="https://github.com/VorAd2"><img src="https://avatars.githubusercontent.com/VorAd2" width="100px;" alt="VorAd2"/><br /><sub><b>Vitor Adriano</b></sub></a>
+        <p><sub>Developer</sub></p></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Toolbox 
+
+|    |  |    |
 |----|-------------------------|----|
-| ![](../../NamassaUtils/google1.png) Google         | ![](../../NamassaUtils/XcodePequeno.png) Xcode | ![](../../NamassaUtils/chatgpt.png) ChatGPT |
-| ![](../../NamassaUtils/social.png) Github           | ![](../../NamassaUtils/SketchBookPequeno.jpg) SkecthBook | ![](../../NamassaUtils/ProcreatePequeno.jpg) Procreate |
-| ![](../../NamassaUtils/figma.png) Figma            | ![](../../NamassaUtils/youtube.png) YouTube | ![](../../NamassaUtils/bate-papo.png) WhatsApp |
+| ![](../google1.png) Google         | ![](../XcodePequeno.png) Xcode | ![](../chatgpt.png) ChatGPT |
+| ![](../social.png) Github           | ![](../SketchBookPequeno.jpg) SkecthBook | ![](../ProcreatePequeno.jpg) Procreate |
+| ![](../figma.png) Figma            | ![](../youtube.png) YouTube | ![](../bate-papo.png) WhatsApp |
 
-### teste de badge
-![Static Badge](https://img.shields.io/badge/lorem_ipsun-black)
-![Static Badge](https://img.shields.io/badge/lorem_ipsun-red)
-![Static Badge](https://img.shields.io/badge/lorem_ipsun-green)
-![Static Badge](https://img.shields.io/badge/lorem_ipsun-maroon)
+
+
