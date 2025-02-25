@@ -42,8 +42,6 @@ Nessa tela, o usuário poderá obter algumas informações a respeito de uma rec
   <img src="NamassaUtils/Screens/Receita.png" alt="Página da receita" width="250" >
 </p>
 
-## Receitas favoritas
-Aqui, as receitas favoritadas pelo usuário serão exibidas
 
 # Atalhos para nosso Github 🎯
 - [Models](Namassa/Models)  
