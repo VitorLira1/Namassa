@@ -1,14 +1,17 @@
 #### _Leia isso em outras linguaguens_
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](NamassaUtils/Translations/READMEen.md)</kbd>
 
-<img src="NamassaUtils/Screens/Entrada.png" alt="Entrada" width="300">
-
 
 ![Static Badge](https://img.shields.io/badge/Swift-5-blue?logo=Swift&logoColor=%23F05138)
 # Namassa App
-
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
 O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
+
+<p align="center">
+  <img src="NamassaUtils/Screens/Entrada.png" alt="Entrada" width="300">
+</p>
+
+
 # Principais funcionalidades
 
 ## Fluxo de seleção dos ingredientes
