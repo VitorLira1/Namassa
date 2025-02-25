@@ -8,6 +8,7 @@ Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instit
 O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
 
 <p align="center">
+  <img src="NamassaUtils/Screens/Inicializar.png" alt="Entrada" width="300">
   <img src="NamassaUtils/Screens/Entrada.png" alt="Entrada" width="300">
 </p>
 
