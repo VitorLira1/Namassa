@@ -9,15 +9,27 @@
 
 Namassa é um protótipo de aplicativo IOS desenvolvido por estudantes do Instituto Federal de Educação, Ciência e Tecnologia durante a turma Foundation do Apple Developer Academy.
 O app se baseia na premissa de oferecer uma maneira prática de encontrar receitas com base na disponibilidade de ingredientes do usuário. Para tal, um mecanismo de busca por filtragem é disponibilizado, permitindo a busca de receitas condicionadas às escolhas o usuário.
-# Funcionalidades
+# Principais funcionalidades
 
-## Tela de busca inteligente
+## Fluxo de seleção dos ingredientes
 
-Nessa tela, o usuário informa os ingredientes que possui e, ao pressionar o botão de pesquisa, realiza a busca de receitas que contenham tais ingredientes 
+Por meio desta funcionalidade, o usuário poderá definir, por categoria, os ingredientes que deverão compor as receitas. Em vista do principal objetivo do aplicativo, é usual que o usuário selecione os ingredientes que estejam, de alguma forma, acessíveis em seu ambiente de preparo.
 
-## Tela de favoritos
+<p align="center">
+  <img src="imagem1.png" alt="Proteínas" width="200">
+  <img src="imagem2.png" alt="Carboidratos" width="200">
+  <img src="imagem2.png" alt="Leguminosas" width="200">
+</p>
 
-Nessa tela, as receitas favoritadas pelo usuário são exibidas
+## Receitas encontradas
+
+Nessa tela, serão exibidas as receitas que, respeitando a seleção de ingredientes do usuário, forem encontradas.
+
+## Visualização da receita
+Nessa tela, o usuário poderá obter algumas informações a respeito de uma receita selecionada.
+
+## Receitas favoritas
+Aqui, as receitas favoritadas pelo usuário serão exibidas
 
 # Atalhos para nosso Github 🎯
 - [Models](Namassa/Models)  
