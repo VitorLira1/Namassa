@@ -41,9 +41,9 @@ On this screen, the user can obtain some information about a selected recipe.
 
 # Links to our GitHub 🎯
 
-- [Models](Namassa/Models)  
-- [Views](Namassa/Views)  
-- [Images](NamassaUtils)
+- [Models](../../Models)  
+- [Views](../../Views)  
+- [Images](../)
 
 # Members 🌐
 
