@@ -2,7 +2,7 @@
 <kbd>[<img title="Português" alt="Português" src="IGNORE/images/usaFlag.png" width="60">](NamassaUtils/Translations/READMEen.md)</kbd>
 
 
-![Static Badge](https://img.shields.io/badge/Swift-5-blue?logo=Swift&logoColor=%23F05138) [![Instituto Federal](https://img.shields.io/badge/-Instituto%20Federal-00843D?style=for-the-badge&logo=https://raw.githubusercontent.com/VitorLira1/Namassa/NamassaUtils/logoifce.jpeg)](https://www.gov.br/setec/pt-br)
+![Static Badge](https://img.shields.io/badge/Swift-5-blue?logo=Swift&logoColor=%23F05138)
 
 
 # Namassa App
