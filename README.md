@@ -16,9 +16,9 @@ O app se baseia na premissa de oferecer uma maneira prática de encontrar receit
 Por meio desta funcionalidade, o usuário poderá definir, por categoria, os ingredientes que deverão compor as receitas. Em vista do principal objetivo do aplicativo, é usual que o usuário selecione os ingredientes que estejam, de alguma forma, acessíveis em seu ambiente de preparo.
 
 <p align="center">
-  <img src="NamassaUtils/Screens/Proteinas.png" alt="Proteínas" width="300" >
-  <img src="NamassaUtils/Screens/Carboidratos.png" alt="Carboidratos" width="300">
-  <img src="NamassaUtils/Screens/Leguminosas.png" alt="Leguminosas" width="300">
+  <img src="NamassaUtils/Screens/Proteinas.png" alt="Proteínas" width="200" >
+  <img src="NamassaUtils/Screens/Carboidratos.png" alt="Carboidratos" width="200">
+  <img src="NamassaUtils/Screens/Leguminosas.png" alt="Leguminosas" width="200">
 </p>
 
 ## Receitas encontradas
