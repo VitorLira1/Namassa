@@ -13,7 +13,7 @@ O app se baseia na premissa de oferecer uma maneira prática de encontrar receit
 </p>
 
 
-# Principais funcionalidades :game_die:
+# Principais funcionalidades :joystick:
 
 ## Fluxo de seleção dos ingredientes
 
