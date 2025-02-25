@@ -17,7 +17,7 @@ O app se baseia na premissa de oferecer uma maneira prática de encontrar receit
 
 ## Fluxo de seleção dos ingredientes
 
-Por meio desta funcionalidade, o usuário poderá definir, por categoria, os ingredientes que deverão compor as receitas. Em vista do principal objetivo do aplicativo, é usual que o usuário selecione os ingredientes que estejam, de alguma forma, acessíveis em seu ambiente de preparo.
+Por meio desta funcionalidade, o usuário poderá definir, por categoria, os ingredientes que deverão compor as receitas pesquisadas. Em vista do principal objetivo do aplicativo, é usual que o usuário selecione os ingredientes que estejam, de alguma forma, acessíveis em seu ambiente de preparo.
 
 <p align="center">
   <img src="NamassaUtils/Screens/Proteinas.png" alt="Proteínas" width="250" >
