@@ -29,8 +29,16 @@ Por meio desta funcionalidade, o usuário poderá definir, por categoria, os ing
 
 Nessa tela, serão exibidas as receitas que, respeitando a seleção de ingredientes do usuário, forem encontradas.
 
+<p align="center">
+  <img src="NamassaUtils/Screens/Encontradas.png" alt="Receitas encontradas" width="250" >
+</p>
+
 ## Visualização da receita
 Nessa tela, o usuário poderá obter algumas informações a respeito de uma receita selecionada.
+
+<p align="center">
+  <img src="NamassaUtils/Screens/Receita.png" alt="Página da receita" width="250" >
+</p>
 
 ## Receitas favoritas
 Aqui, as receitas favoritadas pelo usuário serão exibidas
