@@ -14,7 +14,7 @@ O app se baseia na premissa de oferecer uma maneira prática de encontrar receit
   <img src="NamassaUtils/Screens/Entrada.png" alt="Entrada" width="300">
 </p>
 
-![Descrição](Seleção.gif)
+![Descrição](../Seleção.gif)
 
 
 
